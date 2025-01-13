@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/878/807/HD-wallpaper-biohazard-red-biohazard-red-gizzzi-labrano-black-thumbnail.jpg" alt="Reddy Prasad" align="left" width="600" height="600">
+<img src="https://w0.peakpx.com/wallpaper/878/807/HD-wallpaper-biohazard-red-biohazard-red-gizzzi-labrano-black-thumbnail.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
 
 [![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
 
