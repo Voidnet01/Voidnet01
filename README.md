@@ -1,10 +1,8 @@
-<p align = center ><img src="https://i.postimg.cc/h4XrKmQ2/anubis.jpg
-"> </p>
+<p align = center ><img src="[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.postimg.cc/h4XrKmQ2/anubis.jpg
-"/>
+<img align="right" width="400" alt="Shimarin" src="[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)"/>
 
 <h2> / Sobre mi /</h2>
   
