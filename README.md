@@ -1,4 +1,4 @@
-<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" align="left" width="600" height="600">
+<img src="https://wallpapercave.com/wp/wp2593840.jpg" alt="Reddy Prasad" align="left" width="600" height="600">
 
 [![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
 
