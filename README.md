@@ -12,7 +12,7 @@
 
 ---
 
-<p>Ethical Hacker <b> Malware Developer </b> Apasionado del hacking ético y el desarrollo de malware. En mis tiempos libres disfruto creando malware como herramienta de aprendizaje, buscando vulnerabilidades en sistemas y aplicaciones, y diseñando tecnologías relacionadas con botnets para fines éticos y educativos. Mi objetivo es comprender a fondo las amenazas cibernéticas y contribuir a un entorno digital más seguro.
+<p>Apasionado del hacking ético y el desarrollo de malware. En mis tiempos libres disfruto creando malware para fines de concepto, tambien busco vulnerabilidades en sistemas y aplicaciones, y me apasiona las tecnologías relacionadas con botnets para fines éticos. Mi objetivo es comprender a fondo las amenazas cibernéticas y contribuir a un entorno digital más seguro.
  </p>
 
 -----
