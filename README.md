@@ -1,4 +1,4 @@
-<img src="https://www.securitylab.lat/upload/iblock/1a1/9dttgclzwgjwokfvxg1w3pq4jtjnhroq.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
+<img src="https://www.securitylab.lat/upload/iblock/1a1/9dttgclzwgjwokfvxg1w3pq4jtjnhroq.jpg" alt="Reddy Prasad" align="left" width="600" height="600">
 
 [![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
 
