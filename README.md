@@ -1,26 +1,21 @@
-<p align = center ><img src="[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)"> </p>
+<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" align="left" width="600" height="600">
 
-<div>
+[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
 
-<img align="right" width="400" alt="Shimarin" src="[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)"/>
+<p align="center">
+	<a href="https://github.com/reddyprasade"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/ReddyPrasade"><img src="https://img.shields.io/twitter/follow/ReddyPrasade?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://in.linkedin.com/in/reddy-prasad-e-03b12656"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/reddyprasade"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=orange" alt="GitHub Sponsors"></a>
+	
+</p>
 
-<h2> / Sobre mi /</h2>
-  
-- ⭐ **Entusiasta del hacking etico y del desarrollo de malware**
-- 💀 **Me gusta crear malwares en mis tiempos libres**
-- 👾 **Estudiante autodidacta de cyberseguridad**
-  
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "Python" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "C" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "Assembly" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "Mysql" />
-  
+---
 
-  
+<p>Reddy Prasad works as <b> Machine Learning Scientist</b> at Clientoclarify.ai Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. </p>
 
+-----
+Credits: [reddyprasade](https://github.com/reddyprasade)
 
-------
+Last Edited on: 30/08/2020
 
