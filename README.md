@@ -1,8 +1,10 @@
-<p align = center ><img src=""> </p>
+<p align = center ><img src="![anubis](https://github.com/user-attachments/assets/a30f77c2-e744-4f46-9c8d-5f38b4ee258c)
+"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src=""/>
+<img align="right" width="400" alt="Shimarin" src="![anubis](https://github.com/user-attachments/assets/d7683592-b8b5-4927-b298-68f23da65af3)
+"/>
 
 <h2> / Sobre mi /</h2>
   
