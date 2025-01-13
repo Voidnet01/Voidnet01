@@ -12,7 +12,8 @@
 
 ---
 
-<p>Reddy Prasad works as <b> Machine Learning Scientist</b> at Clientoclarify.ai Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. </p>
+<p>Ethical Hacker <b> Malware Developer </b> Apasionado del hacking ético y el desarrollo de malware. En mis tiempos libres disfruto creando malware como herramienta de aprendizaje, buscando vulnerabilidades en sistemas y aplicaciones, y diseñando tecnologías relacionadas con botnets para fines éticos y educativos. Mi objetivo es comprender a fondo las amenazas cibernéticas y contribuir a un entorno digital más seguro.
+ </p>
 
 -----
 Contact:
