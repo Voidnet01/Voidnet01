@@ -2,8 +2,6 @@
 
 <p align="center">
 	<a href="https://github.com/Voidnet01"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/ReddyPrasade"><img src="https://img.shields.io/twitter/follow/ReddyPrasade?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://in.linkedin.com/in/reddy-prasad-e-03b12656"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>	
 </p>
 
 ---
