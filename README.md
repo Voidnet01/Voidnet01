@@ -1,6 +1,6 @@
-<img src="https://enhacke.com/franquias/2/7243025/editor-html/11121650.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
+<img src="https://i.postimg.cc/qMVSNZkC/anubis.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
 
-[![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
+
 
 <p align="center">
 	<a href="https://github.com/reddyprasade"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
