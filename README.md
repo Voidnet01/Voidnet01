@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/878/807/HD-wallpaper-biohazard-red-biohazard-red-gizzzi-labrano-black-thumbnail.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
+<img src="https://enhacke.com/franquias/2/7243025/editor-html/11121650.jpg" alt="Reddy Prasad" align="left" width="500" height="500">
 
 [![anubis.jpg](https://i.postimg.cc/qMVSNZkC/anubis.jpg)](https://postimg.cc/rzjQbjR8)
 
@@ -15,7 +15,9 @@
 <p>Reddy Prasad works as <b> Machine Learning Scientist</b> at Clientoclarify.ai Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. </p>
 
 -----
-Credits: [reddyprasade](https://github.com/reddyprasade)
+Contact:
 
-Last Edited on: 30/08/2020
-
+Discord:
+Protonmail:
+Telegram:
+OnionMail:
