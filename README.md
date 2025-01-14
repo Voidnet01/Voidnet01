@@ -6,7 +6,7 @@
 
 ---
 
-<p>Apasionado del hacking ético y el desarrollo de malware. En mis tiempos libres disfruto creando malware para fines de concepto, tambien busco vulnerabilidades en sistemas y aplicaciones, y me apasiona las tecnologías y craeciones de las botnets para fines éticos. Mi objetivo es comprender a fondo las amenazas cibernéticas y contribuir a un entorno digital más seguro.
+<p>Soy un apasionado del hacking ético y el desarrollo de malware. En mis tiempos libres disfruto creando malware para fines de concepto, tambien busco vulnerabilidades en sistemas y aplicaciones, y me apasiona las tecnologías y craeciones de las botnets para fines éticos. Mi objetivo es comprender a fondo las amenazas cibernéticas y contribuir a un entorno digital más seguro.
  </p>
 
 ---
