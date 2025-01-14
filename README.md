@@ -13,7 +13,7 @@
 
 Protonmail: Pho3n1xA@protonmail.com
 
-Telegram: Virus 0
+Telegram: https://t.me/whoami01111
 
 OnionMail:
 
